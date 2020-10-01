@@ -1,5 +1,5 @@
 # C-Assessment-
-Dictionary Assessment Programs
+Dictionary Assessment Programs of Artificial intelligence
 
 Bobble AI Assignment
 Assignment project for campus-recruitement drive of Bobble.ai
